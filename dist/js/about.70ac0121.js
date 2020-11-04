@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{1988:function(a,e,n){},"4f58":function(a,e,n){"use strict";var t=n("1988"),s=n.n(t);s.a},f820:function(a,e,n){"use strict";n.r(e);var t=function(){var a=this,e=a.$createElement,n=a._self._c||e;return n("div",{staticClass:"about"},[n("Header"),n("h1",[a._v("Időjárásalkalmazás, gyakorlás képpen")])],1)},s=[],c=n("0418"),o={components:{Header:c["a"]}},r=o,u=(n("4f58"),n("2877")),i=Object(u["a"])(r,t,s,!1,null,"4a3e94c8",null);e["default"]=i.exports}}]);
+//# sourceMappingURL=about.70ac0121.js.map
